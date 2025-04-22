@@ -38,6 +38,7 @@ CLERK_SECRET_KEY=your-clerk-secret-key
 # Edge Store (File uploads) configuration
 EDGE_STORE_ACCESS_KEY=your-edge-store-access-key
 EDGE_STORE_SECRET_KEY=your-edge-store-secret-key
+````
 
 ---
 ## 📦 Installation
@@ -64,4 +65,3 @@ We welcome contributions! Please fork the repository, make your changes, and sub
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-````
